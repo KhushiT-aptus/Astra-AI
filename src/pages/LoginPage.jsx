@@ -28,7 +28,7 @@ const LoginPage = () => {
               <FaEnvelope className="icon" />
               <input
                 id="email"
-                type="email"
+{/*                 type="email" */}
                 placeholder="you@example.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
