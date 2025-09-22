@@ -16,7 +16,7 @@ const LoginPage = () => {
   return (
     <div className="login-container">
       <div className="login-box">
-        <h1 className="login-title">
+        
           Welcome to <span className="astra">Astra</span>
           <span className="ai">AI</span>
         </h1>
