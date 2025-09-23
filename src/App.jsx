@@ -1,6 +1,6 @@
 
 import React from 'react';
-import LoginPage from './pages/LoginPage'; // Import the LoginPage component
+nent
 
 function App() {
   return (
